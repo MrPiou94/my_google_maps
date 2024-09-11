@@ -21,9 +21,8 @@ Geocoding API
 
 # **Étape 3 : Activer et sécuriser les clés API**
 
-*https://console.cloud.google.com/apis/credentials*
-
-Il est primordial de protéger vos clés API pour éviter toute usurpation. Voici quelques conseils pour protéger vos clés selon les plateformes :
+*https://console.cloud.google.com/apis/credentials*  
+Il est primordial de protéger vos clés API pour éviter toute usurpation :  
 
 ***Web*** : Limitez la clé à votre domaine web et restreignez son utilisation.
 

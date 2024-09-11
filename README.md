@@ -10,7 +10,7 @@ Dans ce tutoriel, je vais vous guider point par point pour activer et connecter 
 
 *https://console.cloud.google.com/*
 
-# **Étape 2 : Activer les API Google Maps pour chaque plateforme (Web, Android, iOS).**
+# **Étape 2 : Activer les API Google Maps pour chaque plateforme.**
 
 *https://console.cloud.google.com/apis/dashboard?project=aylicrea-409808*
 

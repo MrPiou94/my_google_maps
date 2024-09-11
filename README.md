@@ -6,11 +6,11 @@ Dans ce tutoriel, je vais vous guider point par point pour activer et connecter 
 
 ⚠️ Important : Ne nommez pas votre projet google_maps pour éviter les conflits avec le package existant sur pub.dev lors du pub get.  
 
-**Étape 1 : Créer votre application sur la Google Cloud Console**
+# **Étape 1 : Créer votre application sur la Google Cloud Console**
 
 *https://console.cloud.google.com/*
 
-**Étape 2 : Activer les API Google Maps pour chaque plateforme (Web, Android, iOS).**
+# **Étape 2 : Activer les API Google Maps pour chaque plateforme (Web, Android, iOS).**
 
 *https://console.cloud.google.com/apis/dashboard?project=aylicrea-409808*
 
@@ -19,7 +19,7 @@ Maps SDK for Android
 Maps SDK for iOS  
 Geocoding API  
 
-**Étape 3 : Activer et sécuriser les clés API**
+# **Étape 3 : Activer et sécuriser les clés API**
 
 *https://console.cloud.google.com/apis/credentials*
 
@@ -48,7 +48,7 @@ http://localhost:57714
 
 ***GEOCODING*** : IP de votre serveur.  
 
-**Étape 4 : Ajouter les packages dans le fichier pubspec.yaml**
+# **Étape 4 : Ajouter les packages dans le fichier pubspec.yaml**
 
 *https://pub.dev/packages/google_maps_flutter*  
 *https://pub.dev/packages/google_maps_flutter_web/install*  
@@ -58,7 +58,7 @@ http://localhost:57714
   google_maps_flutter_web: ^0.5.10  
   geolocator: ^13.0.1  
 
-**Étape 5 : Configurer les permissions**
+# **Étape 5 : Configurer les permissions**
 
 AndroidManifest.xml  
     <uses-permission android:name="android.permission.INTERNET"/>  

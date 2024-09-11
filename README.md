@@ -10,7 +10,7 @@ Dans ce tutoriel, je vais vous guider point par point pour activer et connecter 
 
 *https://console.cloud.google.com/*
 
-# **Étape 2 : Activer les API Google Maps pour chaque plateforme.**
+# **Étape 2 : Activer les API Google Maps pour chaque plateforme**
 
 *https://console.cloud.google.com/apis/dashboard*
 
@@ -19,7 +19,7 @@ Maps SDK for Android
 Maps SDK for iOS  
 Geocoding API  
 
-# **Étape 3 : Activer et sécuriser les clés API**
+# **Étape 3 : Sécuriser les clés API**
 
 *https://console.cloud.google.com/apis/credentials*  
 Il est primordial de protéger vos clés API pour éviter toute usurpation :  

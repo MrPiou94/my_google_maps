@@ -56,18 +56,22 @@ http://localhost:57714
 
 # **Étape 5 : Configurer les permissions**  
 
+
 AndroidManifest.xml  
+```xml
     <uses-permission android:name="android.permission.INTERNET"/>  
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>  
+```
 
 info.plist  
+```xml
         <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>  
         <string>Need Location permission for maps.</string>  
         <key>NSLocationAlwaysUsageDescription</key>  
         <string>Need Location permission for maps.</string>  
         <key>NSLocationWhenInUseUsageDescription</key>  
         <string>Need Location permission for maps.</string>  
-
+```
 
 
 

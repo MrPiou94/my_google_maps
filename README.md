@@ -23,26 +23,26 @@ Geocoding API
 Il est primordial de protéger vos clés API en limitant leur utilisation pour éviter toute usurpation. Renommez-les pour les distinguer facilement :  
 *https://console.cloud.google.com/apis/credentials*   
 
-**Web** : Limitez à votre domaine.   
++ **Web** : Limitez à votre domaine.   
 https://exemple.com	  
 https://*.exemple.com	  
 
-**Android** : Limitez au certificat de la clé de signature d'application SHA1.  
++ **Android** : Limitez au certificat de la clé de signature d'application SHA1.  
 Vous le trouverez sur votre Google Play Console.  
 *https://play.google.com/console/*  
 
 com.exemple.mygooglemaps  
 F6:A8:7C:95:9F:B0:37:79:A4:F0:7F:9B:86:9A:66:3B:7A:B4:69:D9	  
 
-**iOS** : Restreignez la clé aux identifiants de l'application (Bundle Identifier).  
++ **iOS** : Restreignez la clé aux identifiants de l'application (Bundle Identifier).  
 
 com.exemple.mygooglemaps  
 
-**localhost** : Mettez à jour le port à chaque lancement de votre console de développement.  
++ **localhost** : Mettez à jour le port à chaque lancement de votre console de développement.  
 
 http://localhost:57714   
 
-**GEOCODING** : IP de votre serveur.   
++ **GEOCODING** : IP de votre serveur.   
 
 # **Étape 4 : Ajouter les packages dans le fichier pubspec.yaml**  
 *https://pub.dev/packages/google_maps_flutter*   

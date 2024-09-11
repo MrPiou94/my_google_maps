@@ -12,7 +12,7 @@ Dans ce tutoriel, je vais vous guider point par point pour activer et connecter 
 
 **Étape 2 : Activer les API Google Maps pour chaque plateforme (Web, Android, iOS).**
 
-*https://console.cloud.google.com/apis/dashboard?project=aylicrea-409808*
+https://console.cloud.google.com/apis/dashboard?project=aylicrea-409808
 Maps JavaScript API
 Maps SDK for Android
 Maps SDK for iOS

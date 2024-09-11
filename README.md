@@ -22,12 +22,12 @@ Geocoding API
 # **Étape 3 : Sécuriser les clés API**
 
 *https://console.cloud.google.com/apis/credentials*  
-Il est primordial de protéger vos clés API pour éviter toute usurpation :  
+Il est primordial de protéger vos clés API pour éviter toute usurpation. Renommez-les pour les distinguer facilement :  
 
 ***Web*** : Limitez la clé à votre domaine web et restreignez son utilisation.
 
-https://*.exemple.com	  
 https://exemple.com	  
+https://*.exemple.com	  
 
 ***Android*** : Limitez l'utilisation de la clé API aux SHA1 de votre application.
 

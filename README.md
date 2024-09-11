@@ -6,6 +6,9 @@ Dans ce tutoriel, je vais vous guider point par point pour activer et connecter 
 
 ⚠️ Important : Ne nommez pas votre projet google_maps pour éviter les conflits avec le package existant sur pub.dev lors du pub get.  
 
+J'ai inclus une version de démonstration pour vous aider à visualiser le résultat attendu.   
+*https://asyoulikekit.com/map/*
+
 # **Étape 1 : Créer votre application sur la Google Cloud Console**
 
 *https://console.cloud.google.com/*

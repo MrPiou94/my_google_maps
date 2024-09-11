@@ -23,7 +23,8 @@ Geocoding API
 Il est primordial de protéger vos clés API en limitant leur utilisation pour éviter toute usurpation. Renommez-les pour les distinguer facilement :  
 *https://console.cloud.google.com/apis/credentials*   
 
-+ **Web** : Limitez à votre domaine.   
++ **Web** : Limitez à votre domaine.
+
 https://exemple.com	  
 https://*.exemple.com	  
 

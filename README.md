@@ -1,7 +1,7 @@
 # my_google_maps
 
-**Intégration de Google Maps dans votre Application Cross-Plateforme (Web, Android, iOS)**  
-Introduction  
+# **Google Maps Cross-Platform avec Flutter (Web, Android, iOS)**   
+Introduction   
 Dans ce tutoriel, je vais vous guider point par point pour activer et connecter Google Maps avec votre application cross-plateforme. Nous aborderons l'activation des API sur votre Google Cloud Console, la sécurisation de vos clés API pour éviter toute usurpation, et un petit bonus avec l'API Geolocator pour la géolocalisation des adresses.  
 
 ⚠️ Important : Ne nommez pas votre projet google_maps pour éviter les conflits avec le package existant sur pub.dev lors du pub get.  

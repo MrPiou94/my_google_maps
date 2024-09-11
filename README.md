@@ -7,9 +7,11 @@ Dans ce tutoriel, je vais vous guider point par point pour activer et connecter 
 ⚠️ Important : Ne nommez pas votre projet google_maps pour éviter les conflits avec le package existant sur pub.dev lors du pub get.
 
 **Étape 1 : Créer votre application sur la Google Cloud Console**
+
 *https://console.cloud.google.com/*
 
 **Étape 2 : Activer les API Google Maps pour chaque plateforme (Web, Android, iOS).**
+
 *https://console.cloud.google.com/apis/dashboard?project=aylicrea-409808*
 Maps JavaScript API
 Maps SDK for Android
@@ -17,6 +19,7 @@ Maps SDK for iOS
 Geocoding API
 
 **Étape 3 : Activer et sécuriser les clés API**
+
 *https://console.cloud.google.com/apis/credentials*
 Il est primordial de protéger vos clés API pour éviter toute usurpation. Voici quelques conseils pour protéger vos clés selon les plateformes :
 
